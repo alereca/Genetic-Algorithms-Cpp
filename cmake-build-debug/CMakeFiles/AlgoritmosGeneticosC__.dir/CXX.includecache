@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ale/Documents/AlgoritmosGeneticosC++/Headers/Chromosome.h
+vector
+-
+RandomNumberGenerator.h
+/home/ale/Documents/AlgoritmosGeneticosC++/Headers/RandomNumberGenerator.h
+
+/home/ale/Documents/AlgoritmosGeneticosC++/Headers/Population.h
+vector
+-
+Chromosome.h
+/home/ale/Documents/AlgoritmosGeneticosC++/Headers/Chromosome.h
+
+/home/ale/Documents/AlgoritmosGeneticosC++/Headers/RandomNumberGenerator.h
+random
+-
+
+/home/ale/Documents/AlgoritmosGeneticosC++/Sources/Population.cpp
+iostream
+-
+../Headers/Population.h
+/home/ale/Documents/AlgoritmosGeneticosC++/Headers/Population.h
+../Headers/RandomNumberGenerator.h
+/home/ale/Documents/AlgoritmosGeneticosC++/Headers/RandomNumberGenerator.h
+
+/home/ale/Documents/AlgoritmosGeneticosC++/Sources/generationsEvolution.cpp
+iostream
+-
+vector
+-
+cmath
+-
+../Headers/Population.h
+/home/ale/Documents/AlgoritmosGeneticosC++/Headers/Population.h
+../Headers/Chromosome.h
+/home/ale/Documents/AlgoritmosGeneticosC++/Headers/Chromosome.h
+
