@@ -1,3 +1,0 @@
-/home/ale/Documents/AlgoritmosGeneticosC++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/ale/Documents/AlgoritmosGeneticosC++/cmake-build-debug/CMakeFiles/AlgoritmosGeneticosC__.dir
-/home/ale/Documents/AlgoritmosGeneticosC++/cmake-build-debug/CMakeFiles/edit_cache.dir

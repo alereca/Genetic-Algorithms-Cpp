@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/AlgoritmosGeneticosC__.dir/Sources/main.cpp.o CMakeFiles/AlgoritmosGeneticosC__.dir/Sources/Chromosome.cpp.o CMakeFiles/AlgoritmosGeneticosC__.dir/Sources/Population.cpp.o CMakeFiles/AlgoritmosGeneticosC__.dir/Sources/generationsEvolution.cpp.o CMakeFiles/AlgoritmosGeneticosC__.dir/Sources/RandomNumberGenerator.cpp.o  -o AlgoritmosGeneticosC__ 
